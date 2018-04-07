@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/nav_home"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:checkable="true"
+        android:enabled="true"
+        android:icon="@drawable/ic_home_black_24dp"
+        android:title="@string/nav_home"
+        android:visible="true" />
+    <item
+        android:id="@+id/nav_search"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:checkable="true"
+        android:enabled="true"
+        android:icon="@drawable/ic_search_black_24dp"
+        android:title="@string/nav_search"
+        android:visible="true" />
+    <item
+        android:id="@+id/nav_create"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:checkable="true"
+        android:enabled="true"
+        android:icon="@drawable/ic_add_box_black_24dp"
+        android:title="@string/nav_create"
+        android:visible="true" />
+    <item
+        android:id="@+id/nav_bookmarks"
+        android:checkable="true"
+        android:enabled="true"
+        android:icon="@drawable/ic_book_black_24dp"
+        android:title="@string/nav_bookmarks"
+        android:visible="true" />
+    <item
+        android:id="@+id/nav_profile"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:checkable="true"
+        android:enabled="true"
+        android:icon="@drawable/ic_account_box_black_24dp"
+        android:title="@string/nav_profile"
+        android:visible="true" />
+</menu>

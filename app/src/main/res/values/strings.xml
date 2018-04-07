@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">e-Tegu</string>
+    <string name="yan_asadchy">Yan Asadchy</string>
+    <string name="nav_home">Home</string>
+    <string name="nav_search">Search</string>
+    <string name="nav_create">Create</string>
+    <string name="nav_bookmarks">Bookmarks</string>
+    <string name="nav_profile">Profile</string>
+    <string-array name="project_names">
+        <item>Road problem in Tartu</item>
+        <item>Tracks on the banks</item>
+        <item>Sprucing the beach</item>
+        <item>Ice resurfacer for Tartu's school</item>
+    </string-array>
+    <string-array name="project_short_description">
+        <item>Making manholes level with the road surface</item>
+        <item>Tracks would run on the left of the river</item>
+        <item>There is a beach area on the left bank...</item>
+        <item>A modern icesurfacer will ensure the preservation...</item>
+    </string-array>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_home_fragment">Hello Home fragment</string>
+    <string name="hello_search_fragment">Hello Search fragment</string>
+    <string name="hello_create_fragment">Hello Create fragment</string>
+    <string name="hello_bookmarks_fragment">Hello Bookmarks fragment</string>
+    <string name="hello_profile_fragment">Hello Profile fragment</string>
+</resources>
